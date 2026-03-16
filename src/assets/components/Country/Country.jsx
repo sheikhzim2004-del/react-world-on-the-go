@@ -5,7 +5,7 @@ import Cardinfo from '../Card-info/Cardinfo';
 
 
 
-const Country = ({ country }) => {
+const Country = ({ country, visitedCountries}) => {
 
 
   const [visited, setVisited] = useState(false)
@@ -24,7 +24,7 @@ const Country = ({ country }) => {
 
     //3 no way is the best way
     setVisited(!visited)
-
+    visitedCountries(country)
   }
 
   
