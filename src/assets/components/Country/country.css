@@ -1,0 +1,33 @@
+.country{
+  border: 2px solid blue;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 2px 5px 6px rgb(194, 139, 245);
+  text-align: center;
+}
+
+
+.btn{
+  padding: 10px 30px;
+  border: none;
+  border-radius: 20px;
+  background-color: antiquewhite;
+  box-shadow: 2px 2px 5px blue;
+  cursor: pointer;
+}
+
+
+.country-visited{
+  background-color: rgb(162, 255, 166);
+}
+
+.img{
+max-height: 200px;
+border-radius: 10px;
+}
+
+
+
+
+
