@@ -1,7 +1,6 @@
 import React, { use, useState } from 'react';
 import Country from '../Country/Country';
 import './countries.css'
-import { flushSync } from 'react-dom';
 
 const Countries = ({ countriesPromiss }) => {
 
