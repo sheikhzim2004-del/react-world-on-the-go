@@ -3,3 +3,28 @@
   grid-template-columns: repeat(3, 1fr);
   gap: 10px;
 }
+.visited-flag{
+  border: 5px solid rgb(171, 156, 255);
+  padding: 10px;
+  margin-bottom: 20px;
+}
+.visited-flag img{
+  width: 100px;
+  height: 60px;
+  margin-right: 10px;
+  border-radius: 10px;
+}
+
+.ul{
+  border: 5px solid rgb(171, 156, 255);
+  text-align: left;
+  padding: 10px;
+}
+.ul li{
+  display: inline-block;
+  background-color: rgb(79, 43, 119);
+  color: white;
+  margin: 10px;
+  padding: 5px;
+  border-radius: 10px;
+}

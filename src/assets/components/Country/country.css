@@ -1,6 +1,6 @@
 .country{
   border: 2px solid blue;
-  margin: 20px;
+  margin: 5px;
   padding: 20px;
   border-radius: 20px;
   box-shadow: 2px 5px 6px rgb(194, 139, 245);
@@ -15,6 +15,7 @@
   background-color: antiquewhite;
   box-shadow: 2px 2px 5px blue;
   cursor: pointer;
+  margin-right: 10px;
 }
 
 
