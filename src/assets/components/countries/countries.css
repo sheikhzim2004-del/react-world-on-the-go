@@ -8,6 +8,7 @@
   border: 5px solid rgb(171, 156, 255);
   padding: 10px;
   margin-bottom: 20px;
+  margin: 0 20px 20px 20px;
 }
 
 .visited-flag img {
@@ -21,6 +22,7 @@
   border: 5px solid rgb(171, 156, 255);
   text-align: left;
   padding: 10px;
+  margin: 0 20px;
 }
 
 .ul li {
