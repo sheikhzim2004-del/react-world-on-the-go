@@ -13,6 +13,7 @@
   border: none;
   border-radius: 20px;
   background-color: antiquewhite;
+  color: black;
   box-shadow: 2px 2px 5px blue;
   cursor: pointer;
   margin-right: 10px;
@@ -20,7 +21,8 @@
 
 
 .country-visited{
-  background-color: rgb(162, 255, 166);
+  background-color: rgb(78, 240, 140);
+  color: black;
 }
 
 .img{

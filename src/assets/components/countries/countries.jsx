@@ -23,7 +23,7 @@ const Countries = ({ countriesPromiss }) => {
   // console.log(countries)
   return (
     <div>
-      <h1>There are {countries.length} countries in the web.</h1>
+      <h1>There are {countries.length} Countries in the web.</h1>
       <h3>Total Visited Country: {visitedCountries.length}</h3>
       <ul className='ul'>
         {
